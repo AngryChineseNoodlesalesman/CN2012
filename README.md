@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align="center">光之萌约 (Love Of Light) files.</h4>
+<h4 align="center">光之萌约 (Moe Promise) files.</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -20,26 +20,59 @@
 
 ## Key Features
 
+*	Item Actions
+*	Statted Titles
+*	Improved Jewelry Upgrading
+*	Attend Reward System
+*	Area Skill System
+*	Functioning Level 110 Skills
+*	Functioning Level 100 Passives
 *	Auction House
-*	Money Drops
-*	Enhanced Critical Bonus`
-*	Chaos System
-*	Cooking System
-*	Item Compare
+*	Dice Game
+*	Gamble House
+*	Improved Stat System
+*	Enchantment Sockets
+*	MID's & Kingdom Quests
+*	Extended Pinescript possibilities for MID's
+*	Present Rewards
+*	Promotion Rewards
+*	Backwards Walking
 *	Lua Scripting
-*	Macros
-*	Expeditions
-*	"Roll the dice" system for raids
-*	MID Dungeons
-*	Lucky House
+*	Money Drops
+*	Dismounting on Skill usage
+*	Auto-Run
+*	Simultanous Fame and Money Sales
+*	Shopping Calculator
+*	ResIndex System
+*	AbState Item Actions
+*	Passive Skill AbStates
+*	Toggle Skills
+*	Entire Produce Overhaul
+*	Multi-Quest Targets
+*	Chaos System
+*	Chaos Quests
+*	Configurable PvP Settings
+*	Item Compare
+*	Enhanced Critical Bonus
+*	Anti-Critical Rates
+*	50 Instance Dungeons per Zone
+*	No Instance Dungeon Field Limit
+*	Magic Box of Epith (Storage Anywhere)
+*	Cleared Quests Log
+*	Unfinished Important Quests Log
+*	40 Member Expedition Parties
+*	Improved Party Drop Settings determining drop settings for every player individually
+*	Improved Raid Party Drop Settings determining drop settings for every player individually
+*	Roll The Dice for Raid Loot
+
 
 ## Requirements
 
 Basic rundown of what is **required** to host and develop your own server. For more additional server setup Information, please visit our [Documentation](https://doc.fiestaheroes.com/).
 ```bash
 # Supported Operating Systems
-Windows Server: 2016, 2019 and 2022
-Windows: 10 and 11.
+Windows Server: 2008, 2012, 2016, 2019 and 2022
+Windows: Windows XP, Windows Vista, Windows 7, Windows 8, Windows 8.1, Windows 10 and 11.
 
 # Hardware Specifications (Minimum Requirements)
 RAM: 16GB
