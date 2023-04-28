@@ -58,6 +58,7 @@
 *	50 Instance Dungeons per Zone
 *	No Instance Dungeon Field Limit
 *	Magic Box of Epith (Storage Anywhere)
+*	16 Storage Inventories
 *	Cleared Quests Log
 *	Unfinished Important Quests Log
 *	40 Member Expedition Parties
